@@ -33,7 +33,8 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 
 ## OUTPUT:
 <img width="769" height="755" alt="image" src="https://github.com/user-attachments/assets/e12e133e-d745-4258-8086-72fcd0a9561a" />
-<img width="364" height="363" alt="image" src="https://github.com/user-attachments/assets/4ebc022c-a9d4-4f8d-8385-b0f709563729" />
+<img width="474" height="354" alt="image" src="https://github.com/user-attachments/assets/28915b0b-a5d2-4c8f-aa51-2fb71c33d45e" />
+
 
 ## Result:
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
